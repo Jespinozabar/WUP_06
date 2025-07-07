@@ -66,6 +66,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+the majority of black poplar are oppose capital punishment on the other hand the majority of both are in favor of capital punishment.
 
 ## Now with More data
 
