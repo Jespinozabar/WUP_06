@@ -82,6 +82,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+
 ```{r}
 fisherXY(mydata$cappun,mydata$race)
 ```
